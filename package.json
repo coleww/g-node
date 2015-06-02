@@ -1,0 +1,31 @@
+{
+  "name": "geee",
+  "version": "1.0.0",
+  "description": "lazier scaffolding for ember/rails",
+  "bin": {
+    "g": "cmd.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coleww/g-node"
+  },
+  "keywords": [
+    "scaffolding",
+    "ember",
+    "rails",
+    "generator"
+  ],
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coleww/g-node/issues"
+  },
+  "homepage": "https://github.com/coleww/g-node",
+  "dependencies": {
+    "kexec": "^1.2.0"
+  }
+}
