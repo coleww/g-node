@@ -1,6 +1,6 @@
 {
   "name": "geee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lazier scaffolding for ember/rails",
   "bin": {
     "g": "cmd.js"
